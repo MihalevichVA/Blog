@@ -1,11 +1,53 @@
 ---
-title: "My first post"
+title: "My CV"
 date: 2022-12-17T02:23:57.650Z
 ---
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+# Hi, My Name is Vlad
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
+I am a student of BSU, I am fond of frontend. Looking for a Junior
+Developer position.
 
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+---
+
+## Skills
+
+**Front-End**
+
+- ReactJS, Redux, HTML, CSS, MaterialUI, TailwindCSS
+
+**Back-End**
+
+- SQL
+
+**Programming languages**
+
+- JavaScript, C++, Java
+
+**Languages**
+
+- English(A2)
+
+---
+
+## My Personal Projects
+
+- **The website of the paraphernalia store** [Go to GitHub](https://github.com/MihalevichVA/Shop)
+
+      skills: HTML,CSS
+
+- **Chagall Art Gallery** [Go to GitHub](https://github.com/MihalevichVA/Gallery)
+
+      skills: HTML ,CSS
+
+- **Lamoda functionality** [Go to GitHub](https://github.com/MihalevichVA/Lamoda)
+
+      skills: React, Node.js, CSS
+
+---
+
+## Contact
+
+- Email: [mihalwladis2@mail.ru](https://mail.ru/)
+- Github: [myGit](https://github.com/MihalevichVA)
+- Telegram: [myTelegram](https://telegram.org/)
